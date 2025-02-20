@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 🎓 **Bachelor's in General Engineering @ The Cooper Union**  
 💡 **Aspiring Data Analyst / SWE**  
 📊 **Passionate about Data Analysis, Software Engineering, and Business Strategy**
+---
 🚀 **I think in Python. I dream in Python. I love Python. (I can also eat Python)**  
 
 ---
